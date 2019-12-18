@@ -1,0 +1,14 @@
+{
+  "name": "ds-algo",
+  "version": "1.0.0",
+  "description": "Practice project for Data Structures and Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.0"
+  }
+}
